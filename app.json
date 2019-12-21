@@ -1,0 +1,8 @@
+{
+  "name": "Blog App",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/Ammyy9908/Blog-Web-App-in-node",
+  "logo": "https://github.com/heroku/node-js-getting-started/blob/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
